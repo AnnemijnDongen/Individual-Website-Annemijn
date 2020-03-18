@@ -1,0 +1,17 @@
+@charset "utf-8";
+.navbar { 
+	background-color: violet;
+}
+.navbar-brand {
+	background-color: violet;
+}
+.picture1 {
+	background-color: #82E5F0;
+	
+}
+.picture2 { 
+	background-color: pink;
+}
+.picture3 { 
+	background-color: cornflowerblue;	
+}
