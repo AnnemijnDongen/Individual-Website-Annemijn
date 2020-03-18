@@ -1,17 +1,38 @@
 @charset "utf-8";
-.navbar { 
-	background-color: violet;
+body { 
+	background-color: palegreen;
+	color: darkgreen;
+	background-image: url(../Images/background.jpg);
+	font-family: 'Sen', sans-serif;
 }
-.navbar-brand {
-	background-color: violet;
+.navbar-expand-lg {
+	background-color: darkgreen;
+	color: palegreen;
+}
+.jumbotron { 
+	background-color: palegreen;
+	color: darkgreen;
+}
+section {
+	background-color: palegreen;
+	color: darkgreen;
+}
+
+.navbar { 
+	background-color: palegreen;
+
 }
 .picture1 {
-	background-color: #82E5F0;
+	background-color: palegreen;
 	
 }
 .picture2 { 
-	background-color: pink;
+	background-color: palegreen;
 }
 .picture3 { 
-	background-color: cornflowerblue;	
+	background-color: palegreen;	
+}
+footer { 
+	background-color: darkgreen;
+	color: white;
 }
