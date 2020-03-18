@@ -14,8 +14,7 @@ footer {
 	color: white;
 }
 .jumbotron {
-	background-color: darkgreen;
-	color: white;
+	background-color: palegreen;
 }
 section {
 	background-color: palegreen;
@@ -36,7 +35,9 @@ section {
 .picture3 { 
 	background-color: palegreen;	
 }
-}
 .container {
+	background-color: palegreen;
+}
+.my-4 {
 	background-color: palegreen;
 }
