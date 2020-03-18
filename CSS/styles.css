@@ -9,9 +9,13 @@ body {
 	background-color: darkgreen;
 	color: palegreen;
 }
-.jumbotron { 
-	background-color: palegreen;
-	color: darkgreen;
+footer { 
+	background-color: darkgreen;
+	color: white;
+}
+.jumbotron {
+	background-color: darkgreen;
+	color: white;
 }
 section {
 	background-color: palegreen;
@@ -32,9 +36,6 @@ section {
 .picture3 { 
 	background-color: palegreen;	
 }
-footer { 
-	background-color: darkgreen;
-	color: white;
 }
 .container {
 	background-color: palegreen;
